@@ -1,0 +1,15 @@
+{
+  "username": "nadia",
+  "password": "cd0dce8fca267bf1fb86cf43e18d5598",
+  "files": [
+    "game1",
+    "game2"
+  ],
+  "requests": [
+    [
+      "game1",
+      "someone"
+    ]
+  ],
+  "acceptedRequests": []
+}
